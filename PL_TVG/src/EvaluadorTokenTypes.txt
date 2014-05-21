@@ -1,0 +1,13 @@
+// $ANTLR : treeparser.g -> EvaluadorTokenTypes.txt$
+Evaluador    // output token vocab name
+CONSULTA=4
+PROTEIN=5
+OR=6
+";"=7
+COM=8
+"("=9
+")"=10
+"|"=11
+PROTEINA=12
+PUNT=13
+GEN=14

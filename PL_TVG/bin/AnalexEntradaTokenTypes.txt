@@ -1,0 +1,11 @@
+// $ANTLR : analexEntrada.g -> AnalexEntradaTokenTypes.txt$
+AnalexEntrada    // output token vocab name
+SEC=4
+CADENA=5
+ERROR=6
+PROT=7
+";"=8
+LETRA=9
+NUEVA_LINEA=10
+BLANCO=11
+SEPARADOR=12

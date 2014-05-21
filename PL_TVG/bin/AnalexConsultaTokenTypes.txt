@@ -1,0 +1,19 @@
+// $ANTLR : analexConsulta.g -> AnalexConsultaTokenTypes.txt$
+AnalexConsulta    // output token vocab name
+CONSULTA=4
+PROTEIN=5
+OR=6
+";"=7
+COM=8
+"("=9
+")"=10
+"|"=11
+PROTEINA=12
+PUNT=13
+GEN=14
+NUEVA_LINEA=15
+BLANCO=16
+LETRA=17
+FIN=18
+PA=19
+OPOR=20

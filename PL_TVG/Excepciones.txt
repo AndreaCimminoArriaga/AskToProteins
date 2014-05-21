@@ -1,0 +1,6 @@
+- Errores de sintaxis en la consulta:
+	1. Una cadena de consulta no puede tener como primer elemento un ".". Es decir, "." no puede 
+		equivaler a la proteina Met.
+	2. En una consulta no puede escribirse [x, *, .] o [*,.] ya que tras un * no tiene sentido
+		un "." puesto que ya el primer operador inclye al segundo.
+	3. Hay una excepcion de error interno.

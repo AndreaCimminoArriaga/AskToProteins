@@ -1,0 +1,8 @@
+// $ANTLR : anasinEntrada.g -> AnasintEntradaTokenTypes.txt$
+AnasintEntrada    // output token vocab name
+SEC=4
+CADENA=5
+ERROR=6
+PROT=7
+";"=8
+LETRA=9
